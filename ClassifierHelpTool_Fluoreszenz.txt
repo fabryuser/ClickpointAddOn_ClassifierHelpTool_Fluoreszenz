@@ -1,0 +1,6 @@
+[addon]
+name = ClassifierHelp-Tool for FluoreszenzImg
+file = ClassifierHelpTool.py
+icon = ei.asl
+image = Image.png
+requirements = opencv-python, numpy, scikit-image
